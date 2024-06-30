@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola! This is Andy's Github Profile
 
-<!--
-**Andy1iang/Andy1iang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Freshman at the University of Michigan
+  - Majoring in Computer Science
+- Currently Completing an online DSA [Course](https://www.udemy.com/course/algorithms-and-data-structures-in-python/?couponCode=PPINTENTP3)
+- Competitive Coding & Python one-liner enthusiast
+- Old movies, Sci-Fi novels, and Boardgames in my free time
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+
+## My Stats
+![Andy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy1iang&show_icons=true&theme=transparent)
