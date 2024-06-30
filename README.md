@@ -10,11 +10,6 @@
 
 ## Contacts
 
-## My Stats :chart_with_upwards_trend:
+## My Stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=Andy1iang&count_private=true&theme=transparent&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy1iang&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&theme=transparent" />
-</a>
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy1iang&show_icons=true&theme=github_dark) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy1iang&layout=compact)
