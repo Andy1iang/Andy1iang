@@ -12,4 +12,4 @@
 
 ## My Stats:
 
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy1iang&show_icons=true&theme=github_dark) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy1iang&layout=compact)
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy1iang&show_icons=true&theme=github_dark&rank_icon=github) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy1iang&layout=pie)
