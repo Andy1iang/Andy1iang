@@ -14,7 +14,7 @@
 ## My Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=Andy1iang&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&hide_rank=true" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/?username=Andy1iang&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&hide_rank=true" />
 </a> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=175 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy1iang&size_weight=0.4&count_weight=0.6&layout=compact&theme=github_dark&hide_progress=true&langs_count=8&hide_border=true" />
