@@ -2,7 +2,7 @@
 
 - Freshman at the University of Michigan (Majoring in Computer Science & Economics)
 - Competitive Coding & Sorting Algorithms Enthusiast
-- Old movies, Sci-Fi novels, & boardgames in my free time
+- Old movies, Sci-Fi novels, & Boardgames in my free time
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
