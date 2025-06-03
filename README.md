@@ -1,7 +1,6 @@
 # Hello! This is Andy's Github Profile
 
-- Freshman at the University of Michigan (Majoring in Computer Science & Economics)
-- Competitive Coding & Sorting Algorithms Enthusiast
+- Sophomore at the University of Michigan (Majoring in Computer Science & Economics)
 - Old movies, Sci-Fi novels, & Boardgames in my free time
 
 ## Technical Skills
